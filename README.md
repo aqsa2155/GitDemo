@@ -1,2 +1,2 @@
 # GitDemo
-this is demo project
+this is my demo project
